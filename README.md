@@ -17,6 +17,7 @@ Interactive User Interface: Input your preferences easily through a clean and in
 Real-Time Recommendations: Get personalized dining suggestions instantly.
 Customizable Filters: Adjust filters for cuisine type, location, and budget to refine your results.
 Detailed Restaurant Information: View comprehensive details about each recommended restaurant.
+
 📂 Project Structure
 📦 Restaurant-Recommendation-App
 ├── 📁 data                # Dataset used for recommendations
